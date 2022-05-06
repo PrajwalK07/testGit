@@ -1,0 +1,9 @@
+I did my Engineering and Post Graduation in Computer Technology
+
+Currently I am working in MindZcloud technologies, my total IT experince is 5 yrs of experience, out of that 2+yrs  is in salesforce.
+in my current company I working on Metro fiber, a project from Amazon, in for project i envolved from the staring responsbile for configurations 044object creations,
+Validation rules, Workflows /PB, Security Settings , Reports and Dashboards , data load from palybook (legacy system).
+customization side , i have build triggers, Triggers, Batchapex,  wrote test classes and I also worked with integration.
+as a sales force developer my responsibilities are requirement gathering and attending scrum calls.
+
+That’s it from my side
